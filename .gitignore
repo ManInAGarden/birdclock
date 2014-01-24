@@ -6,6 +6,7 @@
 # Packages
 *.egg
 *.egg-info
+*.mp3
 dist
 build
 eggs
